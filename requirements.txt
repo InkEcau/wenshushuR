@@ -1,0 +1,4 @@
+requests
+base58
+pycryptodomex
+loguru
